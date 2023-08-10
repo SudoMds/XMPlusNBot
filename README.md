@@ -7,6 +7,7 @@ This is a bash script that develop python and pythonenv and a control menu to tu
 2.Get Your ChatID from telegram here https://t.me/chatIDrobot
 3.wget the script to your vps
 4.bash install.sh
+# bash https://github.com/dashti75mo/XMPlusNBot/blob/main/install.sh
 5.installer ask your Bot token
 6.installer ask your chat id
 7.wait untill installion done
