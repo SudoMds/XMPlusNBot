@@ -4,10 +4,14 @@ XMPlus Node Management By telegram bot[AutoInstall]
 This is a bash script that develop python and pythonenv and a control menu to turn on your bot on your XMPlus Node(VPS Server)
 # How To?
 1.First Create Your Bot by Botfather
+
 2.Get Your ChatID from telegram here https://t.me/chatIDrobot
+
 3.wget the script to your vps
+
 4.bash install.sh
-# bash https://github.com/dashti75mo/XMPlusNBot/blob/main/install.sh
+
+ bash https://github.com/dashti75mo/XMPlusNBot/blob/main/install.sh
 5.installer ask your Bot token
 6.installer ask your chat id
 7.wait untill installion done
