@@ -21,7 +21,9 @@ This is a bash script that develop python and pythonenv and a control menu to tu
 
 8. command in the server: bot
 9. 
- a menu will appear and no need to give detail about it 
+ a menu will appear and no need to give detail about it
+(start Bot now)
+
  1.start bot
    
  2.stop bot
